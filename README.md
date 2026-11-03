@@ -1,70 +1,90 @@
 # Olá! Eu sou o Igor Batista 👋
 
-🎓 Estudante de Ciência da Computação  
-💻 Estagiário em Desenvolvimento de Sistemas  
-☕ Focado em desenvolvimento Back-end com Java e Spring Boot
+### Desenvolvedor Back-end Java | Estudante de Ciência da Computação
 
-Tenho experiência em suporte técnico N1/N2 e atualmente estou direcionando minha carreira para o desenvolvimento de software.
+Sou estudante de Ciência da Computação e Estagiário em Desenvolvimento de Sistemas, com experiência em ambientes corporativos, manutenção de sistemas e suporte técnico.
 
-Gosto de aprender novas tecnologias, resolver problemas e transformar conhecimentos em projetos práticos.
+Atualmente, trabalho com correção de bugs, desenvolvimento de funcionalidades, testes e consultas SQL. Estou focado em Java, Spring Boot e desenvolvimento de APIs REST.
+
+---
 
 ## 🚀 Tecnologias e ferramentas
 
 **Back-end**
-- Java
-- Spring Boot
-- Spring Framework
-- Spring Data JPA
-- APIs REST
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 
 **Banco de dados**
-- SQL Server
-- MySQL
-- Oracle
 
-**Ferramentas**
-- Git e GitHub
-- Maven
-- JUnit e Mockito
-- Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+**Ferramentas e testes**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=mockito&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experiência
+
+**Estagiário em Desenvolvimento de Sistemas — AMS Avanço Informática**
+
+- Manutenção de código, correção de bugs e desenvolvimento de funcionalidades.
+- Testes e validações de sistemas.
+- Consultas SQL Server, incluindo JOINs, agregações e funções de janela.
+- Utilização de Git e contato com sistemas legados.
+
+**IT Service Desk Analyst N1/N2 — Sonda IT | Cliente Embraer**
+
+- Suporte técnico em ambiente corporativo.
+- Gestão de acessos e permissões.
+- Atendimento e acompanhamento de incidentes com ServiceNow e práticas ITIL.
+
+---
 
 ## 📂 Projetos
 
 ### 🛠️ API de Gestão de Chamados de TI
-**Java | Spring Boot | REST | JPA | SQL | Maven**
 
-API REST inspirada em processos reais de Service Desk, com foco no gerenciamento do ciclo de vida de chamados.
+**Java | Spring Boot | REST | JPA | SQL**
 
-- Abertura, consulta, atualização e encerramento de chamados.
-- Modelagem de domínio e persistência com JPA.
-- Organização da aplicação em camadas.
+API inspirada em processos reais de Service Desk, com abertura, consulta, atualização e encerramento de chamados.
 
 🔨 Em desenvolvimento.
 
 ### 📊 API de Vendas e Notas Fiscais
-**Java | Spring Boot | Maven | JPA | MySQL**
 
-API REST para cadastro e gerenciamento de clientes, produtos e pedidos, inspirada em processos de vendas e notas fiscais.
+**Java | Spring Boot | JPA | MySQL | JUnit | Docker**
 
-- Modelagem relacional e persistência com Spring Data JPA.
-- Consultas SQL.
-- Testes unitários com JUnit e Mockito.
+API REST para gerenciamento de clientes, produtos e pedidos, com foco em modelagem relacional e persistência de dados.
 
 🔨 Em desenvolvimento.
 
-## 🎯 Atualmente aprendendo
+---
 
-- Desenvolvimento de APIs REST com Spring Boot.
-- Persistência de dados com JPA e Hibernate.
-- Testes automatizados com JUnit e Mockito.
-- Boas práticas de desenvolvimento back-end.
+## 🎓 Formação
 
-## 📫 Contato
-
-- 💼 [LinkedIn](https://linkedin.com/in/igor-batista02177a282)
-- 🐙 [GitHub](https://github.com/igorbatista-dev)
-- 📧 E-mail: igorbatistaa03@gmail.com
+- Ciência da Computação — UNICID
+- Java Backend Development — Santander Open Academy
+- Java Development — FIAP
+- Java e POO — Udemy
 
 ---
 
-*Em constante evolução, construindo projetos e aprendendo todos os dias.* ☕
+## 📫 Contato
+
+<a href="https://linkedin.com/in/igor-batista02177a282">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:igorbatistaa03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
